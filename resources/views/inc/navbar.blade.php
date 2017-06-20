@@ -22,10 +22,11 @@
                   &nbsp;
               </ul>
               <ul class="nav navbar-nav">
-                <li><a href="/laravel/lsapp/public/">Home</a></li>
-                <li><a href="/laravel/lsapp/public/about">About</a></li>
+                <li><a href="/laravel/angularjs/public/">Home</a></li>
+                <li><a href="/laravel/angularjs/public/angularjsintro">AngularJS W3 Intro</a></li>
+                <!-- <li><a href="/laravel/lsapp/public/about">About</a></li>
                 <li><a href="/laravel/lsapp/public/services">Services</a></li>
-                <li><a href="/laravel/lsapp/public/posts">Blog</a></li>
+                <li><a href="/laravel/lsapp/public/posts">Blog</a></li> -->
               </ul>
               <!-- Right Side Of Navbar -->
               <ul class="nav navbar-nav navbar-right">

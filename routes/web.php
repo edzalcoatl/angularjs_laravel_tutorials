@@ -24,6 +24,7 @@
 });*/
 
 Route::get('/', 'PagesController@index');
+Route::get('/angularjsintro', 'PagesController@angularjsintro');
 Route::get('/about', 'PagesController@about');
 Route::get('/services', 'PagesController@services');
 Route::get('/login', 'PagesController@login');

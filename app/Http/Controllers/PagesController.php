@@ -12,6 +12,11 @@ class PagesController extends Controller
         return view('pages.index')->with('title', $title);
     }
     
+    public function angularjsintro(){
+        $title = 'AngularJS Introduction';
+        return view('pages.angularjsintro')->with('title', $title);
+    }
+
     public function about(){
         $title = 'About Us';
         return view('pages.about')->with('title', $title);
