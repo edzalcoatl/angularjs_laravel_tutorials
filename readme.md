@@ -1,4 +1,4 @@
-##Project Based on AngularJS Tutorials from W3 Schools in Laravel
+#Project Based on AngularJS Tutorials from W3 Schools in Laravel
 
 This Tutorial
 This tutorial is specially designed to help you learn AngularJS as quickly and efficiently as possible.
